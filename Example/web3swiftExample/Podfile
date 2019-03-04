@@ -1,6 +1,0 @@
-platform :ios, '11.2'
-
-target 'web3swiftExample' do
-  use_frameworks!
-  pod 'web3swift', :git => 'https://github.com/bankex/web3swift.git'
-end
